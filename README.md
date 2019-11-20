@@ -9,13 +9,17 @@ Discovery is about building understanding. Its purpose is to explore and discove
 
 ### Methodology and approaches
 
+- Qualitative research including interviews with experts familiar and possibly working with p2p protocols in browsers and with non-experts who are in general recruited to understand the point of view of the billions of browser users
+
 ### Survey of existing browser landscape
 
 [ Survey of browser URL bar implementation ][2]
 
 ### Non-expert research
 
-#### Why research non-experts?
+- Users first
+- Getting a brief (and statistically unscientific) qualitative view of how people look at and understand browsers in general and the URL bar in particular
+- Prove or disprove assumptions on browser and URL use in general
 
 #### Key questions for non-experts
 
