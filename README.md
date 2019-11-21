@@ -14,7 +14,6 @@ In Protocol Lab’s efforts to
 ### Methodology and approaches
 
 - Qualitative research including interviews with experts familiar and possibly working with p2p protocols in browsers and with non-experts who are in general recruited to understand the point of view of the billions of browser users
-- 
 
 ### Survey of existing browser landscape
 
