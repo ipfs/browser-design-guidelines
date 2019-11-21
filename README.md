@@ -7,9 +7,14 @@ Discovery is about building understanding. Its purpose is to explore and discove
 
 ## Research
 
+### Background
+
+In Protocol Lab’s efforts to 
+
 ### Methodology and approaches
 
 - Qualitative research including interviews with experts familiar and possibly working with p2p protocols in browsers and with non-experts who are in general recruited to understand the point of view of the billions of browser users
+- 
 
 ### Survey of existing browser landscape
 
@@ -49,12 +54,26 @@ Discovery is about building understanding. Its purpose is to explore and discove
 
 #### Key questions for non-experts
 
+## Research questions
+1. What do you do?
+2. What do you do on the Internet?
+3. Which browser do you use? Does it matter? When?
+4. Mobile or desktop?
+5. Where do you usually go on the Internet?
+6. How do you usually get there?
+7. Do you ever type an address (URL) in? If so, when?
+8. How do you explain a web address to people?
+9. What is your understanding of P2P and your opinions on adoption? Barriers to entry?
+10. Can I contact you for further questions?
+
+#### Interviews
+
 1. Ed (done) [https://hackmd.io/@jkosem/S1ydrQZnH][8]
-2. Tim (booked)
+2. T (done) 
 
 ### Key wider landscape questions
 
-### ‘Pulling it all together’ questions 
+### ‘Pulling it all together’ questions
 
 [1]:	https://hackmd.io/BC4VXCr4TW6tUXnYZKOO0A?view
 [2]:	https://hackmd.io/LnKfUUM_TAqw4JfRw_XmdA
