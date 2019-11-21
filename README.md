@@ -54,7 +54,6 @@ In Protocol Lab’s efforts to
 
 #### Key questions for non-experts
 
-## Research questions
 1. What do you do?
 2. What do you do on the Internet?
 3. Which browser do you use? Does it matter? When?
