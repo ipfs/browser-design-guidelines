@@ -105,7 +105,21 @@ Key findings:
 
 [Interview notes][8]
 
-Matthew (booked)
+#### Matthew
+
+Matthew is a designer familiar and comfortable with working on and working to put things on the Web. He has many concerns about privacy and doing the right thing with his web browsing but like many, sometimes forgets or lets it fall by the wayside.
+
+Key findings:
+
+- Splits browser use between a home and a work browser
+- Looking at structure of URL, or if clicked something and has tracking stuff in it conscious of
+- If not HTTPS very conscious of that
+- Sometimes have a splurge about privacy and take precautions and then forget about it for a while
+- Like to see the URL for sure and if didn’t would be slightly worried
+- Like to see the hierarchy of information and doesn’t want the browser to be just delivering the page
+ - He thinks everything is where it should and fine be in terms of how you see security and location
+
+[Interview notes][9]
 
 ### Expert research
 
@@ -121,7 +135,7 @@ Key findings:
 - The average person doesn’t care where the data actually is
 - P2P has very high barrier to entry as many average users don’t understand the advantages and why it may be worthwhile for them
 
-[Interview notes][9]
+[Interview notes][10]
 
 #### T
 
@@ -150,4 +164,5 @@ Key wider landscape questions
 [6]:	https://hackmd.io/@jkosem/ryngA2z2B
 [7]:	https://hackmd.io/@jkosem/Hkq2p5-nr
 [8]:	https://hackmd.io/@jkosem/S18v9vHhH
-[9]:	https://hackmd.io/@jkosem/S1ydrQZnH
+[9]:	https://hackmd.io/@jkosem/S1K6ZcB2B
+[10]:	https://hackmd.io/@jkosem/S1ydrQZnH
