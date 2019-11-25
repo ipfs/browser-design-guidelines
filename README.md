@@ -121,7 +121,7 @@ Key findings:
 
 An expert/stakeholder workshop was conducted in conjunction to the ongoing expert interviews to explore the problem space, relevant technology and possible solutions.
 
-#### Ed
+#### Ed1
 
 Ed is an experienced developer working on archival systems for cultural heritage institutions and museums and very involved in working with P2P protocols and file stores. While working heavily in the sector Ed is very skeptical about user uptake for P2P technologies and think efforts should be instead concentrated on the academic and scientific sectors.
 
@@ -148,7 +148,7 @@ Key findings
 - A company that wants to make P2P cool needs to think about what is the selling point to the user. People shouldn’t have to get it, it should be just good and usable. But if you need to differentiate yourself in the market and it’s complicated what you’re doing, how do you sell that?
 - P2P is just content delivery, it should just work.
 
-# Design hypothesis
+## Design hypothesis
 
 Initial assumptions
 
