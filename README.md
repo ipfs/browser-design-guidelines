@@ -3,23 +3,19 @@ Guidelines and recommendations for browser vendor design and implementation of I
 
 [Discussion and documentation living here for now on HackMD][1]
 
-Discovery is about building understanding. Its purpose is to explore and discover intent, desired outcomes, user needs, organisational goals and context to help discern what the challenges and needs really are. 
-
 ## Research
 
 Background
 
 Methodology and approaches
 
-- Qualitative research including interviews with experts familiar and possibly working with p2p protocols in browsers and with non-experts who are in general recruited to understand the point of view of the billions of browser users
+Examine and explore the use-cases for IPFS in browsers, and publish design guidelines and recommendations for browser vendor implementation
 
 [ Survey of browser URL bar implementation ][2]
 
-- Users first
-- Getting a brief (and statistically unscientific) qualitative view of how people look at and understand browsers in general and the URL bar in particular
-- Prove or disprove assumptions on browser and URL use in general
-
 ### Non-expert research
+
+We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. 
 
 #### Nina
 
@@ -123,7 +119,9 @@ Key findings:
 
 ### Expert research
 
-#### Ed 
+An expert/stakeholder workshop was conducted in conjunction to the ongoing expert interviews to explore the problem space, relevant technology and possible solutions.
+
+#### Ed
 
 Ed is an experienced developer working on archival systems for cultural heritage institutions and museums and very involved in working with P2P protocols and file stores. While working heavily in the sector Ed is very skeptical about user uptake for P2P technologies and think efforts should be instead concentrated on the academic and scientific sectors.
 
@@ -150,11 +148,17 @@ Key findings
 - A company that wants to make P2P cool needs to think about what is the selling point to the user. People shouldn’t have to get it, it should be just good and usable. But if you need to differentiate yourself in the market and it’s complicated what you’re doing, how do you sell that?
 - P2P is just content delivery, it should just work.
 
----- 
+# Design hypothesis
+
+Initial assumptions
+
+Research findings
 
 Key wider landscape questions
 
 ‘Pulling it all together’ questions
+
+Survey review used for setting context both for range of users (i.e. turbo onramp) and for use in quickly orienting people in future reports, presentations, etc. This could help identify the set of visual components present, what they communicate and future work.
 
 [1]:	https://hackmd.io/BC4VXCr4TW6tUXnYZKOO0A?view
 [2]:	https://hackmd.io/LnKfUUM_TAqw4JfRw_XmdA
