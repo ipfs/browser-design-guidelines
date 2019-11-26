@@ -39,15 +39,34 @@ In depth interviews with notes and findings are found in the [wiki][10].
 
 ## Design hypothesis
 
-Initial assumptions
+#### Initial assumptions
 
-Research findings
+- The URL is very important
 
-Key wider landscape questions
+#### Research findings
 
-‘Pulling it all together’ questions
+- The URL is only important as a backup and source of credibility that the right things are happening in the browser
 
-Survey review used for setting context both for range of users (i.e. turbo onramp) and for use in quickly orienting people in future reports, presentations, etc. This could help identify the set of visual components present, what they communicate and future work.
+#### Key wider landscape questions / ‘Pulling it all together’ questions
+
+- Setting context both for range of users (i.e. turbo onramp) and for use in quickly orienting people
+- Identifying the set of visual components present, what they communicate and future work
+
+## Design
+
+The intent of the design phase of the IPFS Browser Design Guidelines is to examine and explore the use-cases for IPFS in browsers, and publish design guidelines and recommendations for browser vendor implementation
+
+#### Programme of work
+
+- Interaction and user experience design work to solve the researched issues, mapping out user flows, design patterns and use cases
+- Interface design
+
+#### Deliverables
+
+- Screen designs including recommendations, iconographic and design treatments for existing browser URL bars
+- User experience flows
+- Design guidelines and component design to inform and help further development efforts
+- Recommendations for further work
 
 [1]:	https://hackmd.io/LnKfUUM_TAqw4JfRw_XmdA
 [2]:	https://github.com/ipfs/browser-design-guidelines/wiki
