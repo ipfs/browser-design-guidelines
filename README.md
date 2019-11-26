@@ -148,6 +148,29 @@ Key findings
 - A company that wants to make P2P cool needs to think about what is the selling point to the user. People shouldn’t have to get it, it should be just good and usable. But if you need to differentiate yourself in the market and it’s complicated what you’re doing, how do you sell that?
 - P2P is just content delivery, it should just work.
 
+#### Ed2
+
+Ed is a principal designer at a large and longstanding software company and been working on browsers for the past ten years. He is wary of how p2p will be accepted and keen for it to be well thought out in terms of context and use.
+
+Key findings
+
+- URLs now have tokens and strings interpreted by the website with content, making them not hierarchal anymore. Therefore any design around this should reflect it being non-hierarchal.
+- The URLs is largely not that useful for most users, but simplifying it doesn’t get your anywhere and just breaks things for people who actually use it
+- The main barrier to entry with p2p is how do they get there how does it work with people’s existing work flows and patterns
+- P2P if it’s going to be useable for people needs to not rely on regular browser conventions and probably look and feel drastically different
+
+[Interview notes][11]
+
+#### James
+
+James works as a browser design for a new and innovative software company focused on privacy and new web business models. He feels that security around where you are with whom you’re connected on the web is generally not well understood by most users but there are also new opportunities for designing around data control.
+
+## Key findings
+- There is currently a lot more narrative around taking control and the protection your data but many users aren’t likely to necessarily sacrifice convenience
+- There is an opportunity to reinvent what is going on with URLs and the address bar and what it means - nobody really has nailed it down
+- P2P adoption requires thinking about how do you make it interesting to your friends. Put these common occurrences together for them, that maybe this makes it safer - just turn this on and get rid of all the ads. You need to present a very clear and very direct solution to a problem they have
+- From the dev side the value proposition of P2P is huge with speed and privacy but with speed you need to incentivise more and more people to share to make it faster
+
 ## Design hypothesis
 
 Initial assumptions
@@ -170,3 +193,4 @@ Survey review used for setting context both for range of users (i.e. turbo onram
 [8]:	https://hackmd.io/@jkosem/S18v9vHhH
 [9]:	https://hackmd.io/@jkosem/S1K6ZcB2B
 [10]:	https://hackmd.io/@jkosem/S1ydrQZnH
+[11]:	https://hackmd.io/@jkosem/B1Gevrc2S
