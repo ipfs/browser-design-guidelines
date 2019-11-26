@@ -4,50 +4,48 @@ Guidelines and recommendations for browser vendor design and implementation of I
 
 ## Research
 
-Background
+> Background
 
-Methodology and approaches
+> Methodology and approaches
 
-Examine and explore the use-cases for IPFS in browsers, and publish design guidelines and recommendations for browser vendor implementation
-
-[ Survey of browser URL bar implementation ][1]
+> Examine and explore the use-cases for IPFS in browsers, and publish design guidelines and recommendations for browser vendor implementation
 
 ### Non-expert research
 
 We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. 
 
-In depth interviews with notes and findings are found in the [wiki][2].
+In depth interviews with notes and findings are found in the [wiki][1].
 
-1. [Nina][3]
-2. [Charlotte][4]
-3. [Aleks][5]
-4. [Dom][6]
-5. [Basil][7]
-6. [Jon][8]
-7. [Matthew][9]
+1. [Nina][2]
+2. [Charlotte][3]
+3. [Aleks][4]
+4. [Dom][5]
+5. [Basil][6]
+6. [Jon][7]
+7. [Matthew][8]
 
 ### Expert research
 
 An expert/stakeholder workshop was conducted in conjunction to the ongoing expert interviews to explore the problem space, relevant technology and possible solutions.
 
-In depth interviews with notes and findings are found in the [wiki][10].
+In depth interviews with notes and findings are found in the [wiki][9].
 
-1. [Ed1][11]
-2. [T][12]
-3. [Ed2][13]
-4. [James][14]
+1. [Ed1][10]
+2. [T][11]
+3. [Ed2][12]
+4. [James][13]
 
 ## Design hypothesis
 
-#### Initial assumptions
+#### Initial assumptions (WIP)
 
 - The URL is very important
 
-#### Research findings
+#### Research findings (WIP)
 
 - The URL is only important as a backup and source of credibility that the right things are happening in the browser
 
-#### Key wider landscape questions / ‘Pulling it all together’ questions
+#### Key wider landscape questions / ‘Pulling it all together’ questions (WIP)
 
 - Setting context both for range of users (i.e. turbo onramp) and for use in quickly orienting people
 - Identifying the set of visual components present, what they communicate and future work
@@ -68,17 +66,16 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 - Design guidelines and component design to inform and help further development efforts
 - Recommendations for further work
 
-[1]:	https://hackmd.io/LnKfUUM_TAqw4JfRw_XmdA
-[2]:	https://github.com/ipfs/browser-design-guidelines/wiki
-[3]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Nina
-[4]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Charlotte
-[5]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Aleks
-[6]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Dom
-[7]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Basil
-[8]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Jon
-[9]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Matthew
-[10]:	https://github.com/ipfs/browser-design-guidelines/wiki
-[11]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed1
-[12]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-T
-[13]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed2
-[14]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-James
+[1]:	https://github.com/ipfs/browser-design-guidelines/wiki
+[2]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Nina
+[3]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Charlotte
+[4]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Aleks
+[5]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Dom
+[6]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Basil
+[7]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Jon
+[8]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Matthew
+[9]:	https://github.com/ipfs/browser-design-guidelines/wiki
+[10]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed1
+[11]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-T
+[12]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed2
+[13]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-James
