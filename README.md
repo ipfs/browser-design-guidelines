@@ -34,6 +34,8 @@ In depth interviews with notes and findings are found in the [wiki][9].
 2. [T][11]
 3. [Ed2][12]
 4. [James][13]
+5. **[Yiannis][14]**
+6. [**Tiff**][15]
 
 ## Design hypothesis
 
@@ -45,7 +47,7 @@ In depth interviews with notes and findings are found in the [wiki][9].
 
 - The URL is only important as a backup and source of credibility that the right things are happening in the browser
 
-#### Key wider landscape questions / ‘Pulling it all together’ questions (WIP)
+#### Key design and user context questions (WIP)
 
 - Setting context both for range of users (i.e. turbo onramp) and for use in quickly orienting people
 - Identifying the set of visual components present, what they communicate and future work
@@ -79,3 +81,5 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 [11]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-T
 [12]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed2
 [13]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-James
+[14]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Yiannis
+[15]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Tiff
