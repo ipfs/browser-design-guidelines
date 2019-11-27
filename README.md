@@ -95,7 +95,7 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 [1]:	https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop
 [2]:	https://github.com/ipfs/browser-design-guidelines/wiki
 [3]:	https://github.com/ipfs/browser-design-guidelines/wiki
-[4]:	https://github.com/ipfs/browser-design-guidelines/wiki
+[4]:	https://github.com/ipfs/browser-design-guidelines/wiki#non-expert-interviews
 [5]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Nina
 [6]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Charlotte
 [7]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Aleks
@@ -103,7 +103,7 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 [9]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Basil
 [10]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Jon
 [11]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Matthew
-[12]:	https://github.com/ipfs/browser-design-guidelines/wiki
+[12]:	https://github.com/ipfs/browser-design-guidelines/wiki#expert-interviews
 [13]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed1
 [14]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-T
 [15]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed2
