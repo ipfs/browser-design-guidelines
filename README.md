@@ -17,34 +17,55 @@ While the browser landscape has never been bigger, with increased specialisation
 
 The intent of the research phase is to examine and explore the use-cases for IPFS in browsers, P2P usage in browsers at large in order to create and publish design guidelines and recommendations for browser vendor implementation and standards bodies.
 
-The research was split into three parts. The first was an [exploratory and scoping workshop][1] with three key developers of IPFS to look at where the leading developmental issues may lie. Afterwards, the second phase was [non-expert research][2] with average users, in this case defined as non-developers or people working on internet protocol level issues. This covered their browser use, their understanding of location and addressing in the browser and knowledge and opinion on P2P in general. Lastly, a small cohort of [expert users][3] involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape.
+One of the first things to research was the [existing browser landscape][1], in this case concentrating primarily on current (2019-Nov) releases of Mozilla Firefox, Apple Safari, Google Chrome and Microsoft Edge.
+
+
+
+The user research was split into three parts. The first was an [exploratory and scoping workshop][2] with three key developers of IPFS to look at where the leading developmental issues may lie.
+
+Afterwards, the second phase was [non-expert research][3] with average users, in this case defined as non-developers or people working on internet protocol level issues. This covered their browser use, their understanding of location and addressing in the browser and knowledge and opinion on P2P in general.
+
+Lastly, a small cohort of [expert users][4] involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape.
+
+### Survey review
+
+setting context both for range of users
+
+
+for use in quickly orienting people in future reports, presentations, etc.
+
+
+identify the set of visual components present, what they communicate and future work.
+- How the browser is usually setup
+- what they all have in common
+- Differences in graphics, icons, ets.
 
 ### Non-expert research
 
 We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. 
 
-In depth interviews with notes and findings are found in the [wiki][4].
+In depth interviews with notes and findings are found in the [wiki][5].
 
-1. [Nina][5]
-2. [Charlotte][6]
-3. [Aleks][7]
-4. [Dom][8]
-5. [Basil][9]
-6. [Jon][10]
-7. [Matthew][11]
+1. [Nina][6]
+2. [Charlotte][7]
+3. [Aleks][8]
+4. [Dom][9]
+5. [Basil][10]
+6. [Jon][11]
+7. [Matthew][12]
 
 ### Expert research
 
 An expert/stakeholder workshop was conducted in conjunction to the ongoing expert interviews to explore the problem space, relevant technology and possible solutions.
 
-In depth interviews with notes and findings are found in the [wiki][12].
+In depth interviews with notes and findings are found in the [wiki][13].
 
-1. [Ed1][13]
-2. [T][14]
-3. [Ed2][15]
-4. [James][16]
-5. [Yiannis][17]
-6. [Tiff][18]
+1. [Ed1][14]
+2. [T][15]
+3. [Ed2][16]
+4. [James][17]
+5. [Yiannis][18]
+6. [Tiff][19]
 
 ## Design hypothesis
 
@@ -92,21 +113,29 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 - Design guidelines and component design to inform and help further development efforts
 - Recommendations for further work
 
-[1]:	https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop
-[2]:	https://github.com/ipfs/browser-design-guidelines/wiki
+---- 
+
+#### Credit where credit is due
+Free stuff used in this repo
+Icons: [Font Awesome][20]
+
+[1]:	https://github.com/ipfs/browser-design-guidelines/wiki#competitive-landscape-survey
+[2]:	https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop
 [3]:	https://github.com/ipfs/browser-design-guidelines/wiki
 [4]:	https://github.com/ipfs/browser-design-guidelines/wiki
-[5]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Nina
-[6]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Charlotte
-[7]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Aleks
-[8]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Dom
-[9]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Basil
-[10]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Jon
-[11]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Matthew
-[12]:	https://github.com/ipfs/browser-design-guidelines/wiki
-[13]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed1
-[14]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-T
-[15]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed2
-[16]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-James
-[17]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Yiannis
-[18]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Tiff
+[5]:	https://github.com/ipfs/browser-design-guidelines/wiki
+[6]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Nina
+[7]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Charlotte
+[8]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Aleks
+[9]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Dom
+[10]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Basil
+[11]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Jon
+[12]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Matthew
+[13]:	https://github.com/ipfs/browser-design-guidelines/wiki
+[14]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed1
+[15]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-T
+[16]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed2
+[17]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-James
+[18]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Yiannis
+[19]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Tiff
+[20]:	https://fontawesome.com/
