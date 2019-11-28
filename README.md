@@ -116,7 +116,9 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 ---- 
 
 #### Credit where credit is due
+
 Free stuff used in this repo
+
 Icons: [Font Awesome][20]
 
 [1]:	https://github.com/ipfs/browser-design-guidelines/wiki#competitive-landscape-survey
