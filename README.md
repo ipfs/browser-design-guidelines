@@ -31,9 +31,7 @@ The user research was split into three parts. The first was an [exploratory and 
 
 Afterwards, the second phase was [non-expert research][3] with average users, in this case defined as non-developers or people working on internet protocol level issues. This covered their browser use, their understanding of location and addressing in the browser and knowledge and opinion on P2P in general.
 
-We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. 
-
-In depth interviews with notes and findings are found in the [wiki][4].
+We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. In depth interviews with notes and findings are found in the [wiki][4].
 
 1. [Nina][5]
 2. [Charlotte][6]
@@ -45,9 +43,7 @@ In depth interviews with notes and findings are found in the [wiki][4].
 
 ### Expert research
 
-Lastly, a small cohort of [expert users][12] involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape.
-
-In depth interviews with notes and findings are found in the [wiki][13].
+Lastly, a small cohort of [expert users][12] involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape. In depth interviews with notes and findings are found in the [wiki][13].
 
 1. [Ed1][14]
 2. [T][15]
