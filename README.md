@@ -122,6 +122,7 @@ Icons: [Font Awesome][20]
 [1]:	https://github.com/ipfs/browser-design-guidelines/wiki#competitive-landscape-survey
 [2]:	https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop
 [3]:	https://github.com/ipfs/browser-design-guidelines/wiki
+<<<<<<< HEAD
 [4]:	https://github.com/ipfs/browser-design-guidelines/wiki
 [5]:	https://github.com/ipfs/browser-design-guidelines/wiki
 [6]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Nina
@@ -139,3 +140,20 @@ Icons: [Font Awesome][20]
 [18]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Yiannis
 [19]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Tiff
 [20]:	https://fontawesome.com/
+=======
+[4]:	https://github.com/ipfs/browser-design-guidelines/wiki#non-expert-interviews
+[5]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Nina
+[6]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Charlotte
+[7]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Aleks
+[8]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Dom
+[9]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Basil
+[10]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Jon
+[11]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Matthew
+[12]:	https://github.com/ipfs/browser-design-guidelines/wiki#expert-interviews
+[13]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed1
+[14]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-T
+[15]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Ed2
+[16]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-James
+[17]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Yiannis
+[18]:	https://github.com/ipfs/browser-design-guidelines/wiki/Interview-Tiff
+>>>>>>> c84804ae9cf6f5fa728c14b84c62a84360f362f7
