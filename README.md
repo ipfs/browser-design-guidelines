@@ -21,7 +21,7 @@ The intent of the research phase is to examine and explore the use-cases for IPF
 
 One of the first things to research was the [existing browser landscape](https://github.com/ipfs/browser-design-guidelines/wiki#competitive-landscape-survey), in this case concentrating primarily on current (2019-Nov) releases of Mozilla Firefox, Apple Safari, Google Chrome and Microsoft Edge, the aim of which was to establish the commonalities and baselines between the current browser stack. From this we could continue into exploring in detail through user research what works and what doesn’t with that.
 
-### Exploratory workshop
+### [Exploratory workshop](https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop)
 
 An expert/stakeholder workshop was conducted in conjunction to the ongoing expert interviews to explore the problem space, relevant technology and possible solutions.
 
