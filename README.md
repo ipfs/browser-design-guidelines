@@ -37,9 +37,9 @@ We conducted research with seven participants, spread geographically and across 
 
 Lastly, a small cohort of [expert users][12] involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape. In depth interviews with notes and findings are found in the [wiki][8].
 
-## Design hypothesis
+## Research findings
 
-#### Initial assumptions
+### Initial assumptions
 
 - The URL as a mechanism and way to understand location on the Internet is fairly well understood and usable
 - A URL is at least partially human-readable by most people
@@ -50,7 +50,7 @@ Lastly, a small cohort of [expert users][12] involved directly with P2P or IPFS 
 - P2P (and IPFS) is easy to understand
 - The use cases of P2P in terms of a browser are clearly understood
 
-#### Research findings
+### Research findings
 
 - The URL is only important as a backup and source of credibility that the right things are happening in the browser
 - The URL bar as it is presented now is probably fine just the way it is
@@ -73,7 +73,7 @@ Lastly, a small cohort of [expert users][12] involved directly with P2P or IPFS 
 - P2P might be better suited to use that is more niche and not mass scale, such as scientific and academic publishing
 - Incentivisation and participation models need to be explored much more and better communicated
 
-#### Key design and user context questions and issues to be explored in the design phase
+#### Key design and user context questions and issues
 
 - How might we design P2P (IPFS) to be used by the wider browser user base in terms of accomplishing a typical user tasks easier than they do now, for instance sharing photos?
 - How might we clearly communicate the benefits of using P2P technologies?
@@ -81,7 +81,7 @@ Lastly, a small cohort of [expert users][12] involved directly with P2P or IPFS 
 - How might we allow the user be enabled to participating in a P2P scenario by being stepped through the first few times?
 - How might we communicate to the users visually what is happening?
 - How might we explore niche use cases such as scientific and academic publishing?
-- How might we better understand where context and location and culture is important in perceptions of privacy, participation and P2P?
+- How might we better understand where context, location and culture is important in perceptions of privacy, participation and P2P?
  - How might we explore design in which P2P is used or explained with public folders like with Dropbox?
 - How might we think of a repository-type approach in thinking about distributed content stores?
 - How might we we ensure trust and verification of content ownership and security fo users when connecting to other people’s computers and devices?
@@ -90,6 +90,28 @@ Lastly, a small cohort of [expert users][12] involved directly with P2P or IPFS 
 ## Design
 
 The intent of the design phase of the IPFS Browser Design Guidelines is to examine and explore the use-cases for IPFS in browsers, and publish design guidelines and recommendations for browser vendor implementation
+
+### Hypotheses
+
+We believe that a uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control
+Will help experienced but non-developer users
+Know that they are participating in P2P in a safe and trusted manner
+We will know this is valid when users understand they are participating in P2P without being told and feel okay with it
+
+We believe that providing the user a clearly communicated incentive to use P2P
+Will help curious browser users
+Onboard to and begin using P2P protocols
+We will know this is valid when users report the benefits of partipating in P2P and continue using
+
+We believe that having a way to see the authenticity and safety of the content shared
+Will help P2P users who are concerned about privacy and surveillance
+Continue to use the protocol
+We will know this is valid when P2P users are shown to be using this initially a lot but in decreasing amounts throughout their continued use
+
+We believe that seeing an easily understandable first time process for beginning to participate in P2P
+Will get non-expert users
+To quickly onboard and only use this once
+We will know this is valid when data or research shows that it is being used only once
 
 ### Programme of work
 
