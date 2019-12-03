@@ -17,25 +17,25 @@ While the browser landscape has never been bigger, with increased specialisation
 
 The intent of the research phase is to examine and explore the use-cases for IPFS in browsers, P2P usage in browsers at large in order to create and publish design guidelines and recommendations for browser vendor implementation and standards bodies.
 
-### [Survey review](https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey)
+### [Survey review][1]
 
-One of the first things to research was the [existing browser landscape](https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey), in this case concentrating primarily on current (2019-Nov) releases of Mozilla Firefox, Apple Safari, Google Chrome and Microsoft Edge, the aim of which was to establish the commonalities and baselines between the current browser stack. From this we could continue into exploring in detail through user research what works and what doesn’t with that.
+One of the first things to research was the [existing browser landscape][2], in this case concentrating primarily on current (2019-Nov) releases of Mozilla Firefox, Apple Safari, Google Chrome and Microsoft Edge, the aim of which was to establish the commonalities and baselines between the current browser stack. From this we could continue into exploring in detail through user research what works and what doesn’t with that.
 
-### [Exploratory workshop](https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop)
+### [Exploratory workshop][3]
 
 An expert/stakeholder workshop was conducted in conjunction to the ongoing expert interviews to explore the problem space, relevant technology and possible solutions.
 
-The user research was split into three parts. The first was an [exploratory and scoping workshop](https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop) with three key developers of IPFS to look at where the leading developmental issues may lay.
+The user research was split into three parts. The first was an [exploratory and scoping workshop][4] with three key developers of IPFS to look at where the leading developmental issues may lay.
 
-### [Non-expert research](https://github.com/ipfs/browser-design-guidelines/wiki#non-expert-interviews)
+### [Non-expert research][5]
 
 Afterwards, the second phase was non-expert research with average users, in this case defined as non-developers or people working on internet protocol level issues. This covered their browser use, their understanding of location and addressing in the browser and knowledge and opinion on P2P in general.
 99
-We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. In depth interviews with notes and findings are found in the [wiki](https://github.com/ipfs/browser-design-guidelines/wiki).
+We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. In depth interviews with notes and findings are found in the [wiki][6].
 
-### [Expert research](https://github.com/ipfs/browser-design-guidelines/wiki#expert-interviews)
+### [Expert research][7]
 
-Lastly, a small cohort of expert users involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape. In depth interviews with notes and findings are found in the [wiki](https://github.com/ipfs/browser-design-guidelines/wiki).
+Lastly, a small cohort of expert users involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape. In depth interviews with notes and findings are found in the [wiki][8].
 
 ## Research findings
 
@@ -93,33 +93,53 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 
 ### Hypotheses
 
-#### An uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
+#### (1.) An uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
 Know that they are participating in P2P in a safe and trusted manner.
 
 We will know this is valid when users understand they are participating in P2P without being told and feel okay with it
 
 &nbsp;
 
-#### We believe that showing the user a clearly communicated value proposition to use P2P will help curious browser users
+#### (2.) We believe that showing the user a clearly communicated value proposition to use P2P will help curious browser users
 Onboard to and begin using P2P protocols
 
 We will know this is valid when users report the benefits of partipating in P2P and continue using
 
 &nbsp;
 
-#### We believe that having a way to see the authenticity and safety of the content shared will help P2P users who are concerned about privacy and surveillance
+#### (3.) We believe that having a way to see the authenticity and safety of the content shared will help P2P users who are concerned about privacy and surveillance
 Continue to use the protocol
 
 We will know this is valid when P2P users are shown to be using this initially a lot but in decreasing amounts throughout their continued use
 
 &nbsp;
 
-#### We believe that seeing an easily understandable first time process for beginning to participate in P2P will get non-expert users
+#### (4.) We believe that seeing an easily understandable first time process for beginning to participate in P2P will get non-expert users
 To quickly onboard and only use this once
 
 We will know this is valid when data or research shows that it is being used only once
 
 &nbsp;
+
+### Use cases
+
+#### Format
+
+#### (1.) An uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
+
+Actors: User, browser, P2P network protocol
+
+An average, non-developer web user would like to share a photo. To do so they will use their browser and P2P sharing.
+
+The user selects the icon or P2P control in the browser URL bar, the browser responds with opening a dropdown, dialog window. The user will be shown options for which P2P network or protocol to enable with their last chosen option already checked. They will have the option to turn on P2P sharing on a button. Once clicked, the on/off P2P button will turn active and there will be an animated indication that the browser is now in dual client/server mode. The user has additional settings next to any of the protocols shows as well an a link to more information.
+
+The user is now in P2P mode and their browser interface changes to show which files they are serving in a file and folder structure and shows an upload box. They drag the photo to the upload box which shows a progress bar while it uploads to the network. The address of the photo is copied automatically to their clipboard and they proceed to email the link in a message.
+
+(2.)
+
+(3.)
+
+(4.)
 
 ### Programme of work
 
@@ -139,4 +159,14 @@ We will know this is valid when data or research shows that it is being used onl
 
 Free stuff used in this repo
 
-Icons: [Font Awesome](https://fontawesome.com/)
+Icons: [Font Awesome][9]
+
+[1]:	https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey
+[2]:	https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey
+[3]:	https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop
+[4]:	https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop
+[5]:	https://github.com/ipfs/browser-design-guidelines/wiki#non-expert-interviews
+[6]:	https://github.com/ipfs/browser-design-guidelines/wiki
+[7]:	https://github.com/ipfs/browser-design-guidelines/wiki#expert-interviews
+[8]:	https://github.com/ipfs/browser-design-guidelines/wiki
+[9]:	https://fontawesome.com/
