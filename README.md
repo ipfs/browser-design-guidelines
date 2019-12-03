@@ -92,7 +92,7 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 
 ### Hypotheses
 
-#### (1.) An uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
+#### (1.) We believe an uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
 Know that they are participating in P2P in a safe and trusted manner.
 
 We will know this is valid when users understand they are participating in P2P without being told and feel okay with it
