@@ -94,23 +94,36 @@ The intent of the design phase of the IPFS Browser Design Guidelines is to exami
 ### Hypotheses
 
 1. We believe that a uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control
-	- Will help experienced but non-developer users
-	- Know that they are participating in P2P in a safe and trusted manner
-	- We will know this is valid when users understand they are participating in P2P without being told and feel okay with it
+
+Will help experienced but non-developer users
+
+Know that they are participating in P2P in a safe and trusted manner
+
+We will know this is valid when users understand they are participating in P2P without being told and feel okay with it
 
 2. We believe that providing the user a clearly communicated incentive to use P2P
-	- Will help curious browser users
-	- Onboard to and begin using P2P protocols
-	- We will know this is valid when users report the benefits of partipating in P2P and continue using
+
+Will help curious browser users
+
+Onboard to and begin using P2P protocols
+
+We will know this is valid when users report the benefits of partipating in P2P and continue using
 
 3. We believe that having a way to see the authenticity and safety of the content shared
-	- Will help P2P users who are concerned about privacy and surveillance
-	- Continue to use the protocol
-	- We will know this is valid when P2P users are shown to be using this initially a lot but in decreasing amounts throughout their continued use
+
+Will help P2P users who are concerned about privacy and surveillance
+
+Continue to use the protocol
+
+We will know this is valid when P2P users are shown to be using this initially a lot but in decreasing amounts throughout their continued use
+
 4. We believe that seeing an easily understandable first time process for beginning to participate in P2P
-	- Will get non-expert users
-	- To quickly onboard and only use this once
-	- We will know this is valid when data or research shows that it is being used only once
+
+Will get non-expert users
+
+To quickly onboard and only use this once
+
+We will know this is valid when data or research shows that it is being used only once
 
 ### Programme of work
 
