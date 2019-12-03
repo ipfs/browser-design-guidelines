@@ -53,25 +53,24 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 ### Research findings
 
 - The URL is only important as a backup and source of credibility that the right things are happening in the browser
+ - Nobody thinks the URL bar should go away as it serves as a semi-readable source of authenticity, for instance at a domain level for all levels of users
 - The URL bar as it is presented now is probably fine just the way it is
- - Although the URL or what is happening in the URL bar may not be widely understood, nobody wants it to go away as it serves as a semi-readable source of authenticity, for instance at a domain level
 - Almost across the board between non-experts and experts, URLs are rarely typed in and the URL bar is used for search as a primary means of navigation
 - A few research participants use autocomplete with domains and finding URLs via history and bookmark functions in their browser
-- The time is right to look at new modes of privacy, use and control on the Web. Privacy and security are a great concern to users, both expert and non-expert, however, it is not greatly understood by non-experts and they often have misconceptions and are thus largely left feeling hopeless about it
- - Users at large are overwhelmed if not defeated by ads, tracking, surveillance and privacy concerns
- - HTTPS is something all users are aware of although they might not fully understand it’s implications
+- Privacy and security are a great concern to users, both expert and non-expert. However, ad tracking and surveillance is not greatly understood by non-experts and they often have misconceptions and are thus largely left feeling hopeless and defeated.
+ - HTTPS is something all users are aware of although they might not fully understand it’s implications, but trust that it means “secure”
 - People have issues with long URLs and in particular ones that seem to have what are perceived to have codes or tracking things in them
-- Blogs have given people a better understanding of URLs
+- Blogs have created a better understanding of URLs with non-expert users as they are quite readable
  - The URL is perceived to be potentially very useful if it had certain standard conventions or features such as having topic, author or title included
 - There have been attempts in browsers, particularly with Microsoft and Internet Explorer, to bring a clickable interface to the URL
 - P2P is largely understood to be about files that are in many places at the same time by many people, but is largely thought of by non-experts as a tool for media piracy which could have potentially given a good technology a bad name
+ - Most assume P2P makes things faster and somehow more secure
 - How files and folders work in P2P, especially in terms of the URL isn’t greatly understood by both non-experts and experts
-- Most assume P2P makes things faster and somehow more secure
-- Privacy as a concept on the Internet is understood differently in different parts of the worlds
+- Privacy on the Internet is understood differently in different parts of the world
 - When in P2P ‘mode’, it may be very beneficial to the user to have a drastically user or visual experience to differentiate the mode of use
 - There are potential opportunities with P2P in terms of lowering CDN costs and lessening or eliminating the need for invasive advertising
 - P2P might be better suited to use that is more niche and not mass scale, such as scientific and academic publishing
-- Incentivisation and participation models need to be explored much more and better communicated
+- Expert users believe participation models and value propositions need to be explored much more and better communicated
 
 #### Key design and user context questions and issues
 
