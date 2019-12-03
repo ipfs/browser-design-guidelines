@@ -19,23 +19,23 @@ The intent of the research phase is to examine and explore the use-cases for IPF
 
 ### [Survey review](https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey)
 
-One of the first things to research was the (existing browser landscape)[https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey], in this case concentrating primarily on current (2019-Nov) releases of Mozilla Firefox, Apple Safari, Google Chrome and Microsoft Edge, the aim of which was to establish the commonalities and baselines between the current browser stack. From this we could continue into exploring in detail through user research what works and what doesn’t with that.
+One of the first things to research was the [existing browser landscape](https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey), in this case concentrating primarily on current (2019-Nov) releases of Mozilla Firefox, Apple Safari, Google Chrome and Microsoft Edge, the aim of which was to establish the commonalities and baselines between the current browser stack. From this we could continue into exploring in detail through user research what works and what doesn’t with that.
 
 ### [Exploratory workshop](https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop)
 
 An expert/stakeholder workshop was conducted in conjunction to the ongoing expert interviews to explore the problem space, relevant technology and possible solutions.
 
-The user research was split into three parts. The first was an (exploratory and scoping workshop)[https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop] with three key developers of IPFS to look at where the leading developmental issues may lay.
+The user research was split into three parts. The first was an [exploratory and scoping workshop](https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop) with three key developers of IPFS to look at where the leading developmental issues may lay.
 
 ### [Non-expert research](https://github.com/ipfs/browser-design-guidelines/wiki#non-expert-interviews)
 
 Afterwards, the second phase was non-expert research with average users, in this case defined as non-developers or people working on internet protocol level issues. This covered their browser use, their understanding of location and addressing in the browser and knowledge and opinion on P2P in general.
 99
-We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. In depth interviews with notes and findings are found in the (wiki)[https://github.com/ipfs/browser-design-guidelines/wiki].
+We conducted research with seven participants, spread geographically and across genders and occupations to determine their conceptions, concerns and ideas about addressing conventions and P2P technologies in modern browsers. In depth interviews with notes and findings are found in the [wiki](https://github.com/ipfs/browser-design-guidelines/wiki).
 
 ### [Expert research](https://github.com/ipfs/browser-design-guidelines/wiki#expert-interviews)
 
-Lastly, a small cohort of expert users involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape. In depth interviews with notes and findings are found in the [wiki][8].
+Lastly, a small cohort of expert users involved directly with P2P or IPFS development, cryptography or browser development were interviewed to gather specialist knowledge and opinions on the domain and technological and user landscape. In depth interviews with notes and findings are found in the [wiki](https://github.com/ipfs/browser-design-guidelines/wiki).
 
 ## Research findings
 
@@ -139,4 +139,4 @@ We will know this is valid when data or research shows that it is being used onl
 
 Free stuff used in this repo
 
-Icons: (Font Awesome)[https://fontawesome.com/]
+Icons: [Font Awesome](https://fontawesome.com/)
