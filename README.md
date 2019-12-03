@@ -76,15 +76,14 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 
 - How might we design P2P (IPFS) to be used by the wider browser user base in terms of accomplishing a typical user tasks easier than they do now, for instance sharing photos?
 - How might we clearly communicate the benefits of using P2P technologies?
-- How might we set the context for a range of users in quickly orienting people as to what they are doing without overwhelming them or showing them the actual working of the protocol?
 - How might we allow the user be enabled to participating in a P2P scenario by being stepped through the first few times?
 - How might we communicate to the users visually what is happening?
 - How might we explore niche use cases such as scientific and academic publishing?
 - How might we better understand where context, location and culture is important in perceptions of privacy, participation and P2P?
  - How might we explore design in which P2P is used or explained with public folders like with Dropbox?
-- How might we think of a repository-type approach in thinking about distributed content stores?
-- How might we we ensure trust and verification of content ownership and security fo users when connecting to other people’s computers and devices?
- - How can we incentivise users with some reward in P2P, for instance a page giving the user no ads in return for participation?
+- How might we think of a repository-type approach in thinking about distributed content stores that makes sense to a broad range of users?
+- How might we we ensure trust and verification of content ownership and security for users when connecting to other people’s computers and devices?
+ - How can we reward users on a P2P network, for instance a page giving the user no ads in return for participation in lowering CDN costs?
 
 ## Design
 
