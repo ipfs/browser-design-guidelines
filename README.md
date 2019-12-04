@@ -53,37 +53,35 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 ### Research findings and themes
 
 - The URL is only important as a backup and source of credibility that the right things are happening in the browser
-- Nobody thinks the URL bar should go away as it serves as a semi-readable source of authenticity, for instance at a domain level for all levels of users
-- The URL bar as it is presented now is probably fine just the way it is
-- Almost across the board between non-experts and experts, URLs are rarely typed in and the URL bar is used for search as a primary means of navigation
-- Privacy and security are a great concern to users, both expert and non-expert. However, ad tracking and surveillance is not greatly understood by non-experts and they often have misconceptions and are thus largely left feeling hopeless and defeated.
-- Very long URLs are generally regarded as suspicious and shorted URLs are likewise not very trusted as they lack context with a domain for instance
+- According to experts and many non-experts spoken with, the URL bar as it is presented now is probably fine just the way it is
+- URLs are rarely typed in and the URL bar is used for search as a primary means of navigation
 - HTTPS is something all users are aware of although they might not fully understand it’s implications or understand why, but trust that it means “secure”
-- People have issues with long URLs and in particular ones that seem to have what are perceived to have codes or tracking things in them
-- Blogs have created a better understanding of URLs with non-expert users as they are quite readable
- - The URL is perceived to be potentially very useful if it had certain standard conventions or features such as having topic, author or title included
+- Privacy and security are a great concern to users. However, ad tracking and surveillance is not greatly understood by non-experts and they often have misconceptions and are thus largely left feeling hopeless and defeated. One participant in regard to this spoke about "splurges of privacy" where they would enact what processes they could and then forget about it after a while.
+- Very long URLs are generally regarded as suspicious, such as having tracking in them, and shorted URLs are likewise not very trusted as they lack context with a domain
+- Blogs have created a better understanding of URLs with non-expert users as they are quite readable. Likewise the URL is perceived to be potentially very useful if it had certain standard conventions or features such as having topic, author or title included
 - There have been attempts in browsers, particularly with Microsoft and Internet Explorer, to bring a clickable interface to the URL
-- P2P is largely understood to be about files that are in many places at the same time by many people, but is largely thought of by non-experts as a tool for media piracy which could have potentially given a good technology a bad name
- - Most assume P2P makes things faster and somehow more secure
-- How files and folders work in P2P, especially in terms of the URL isn’t greatly understood by both non-experts and experts
+- P2P is largely understood to be about files that are in many places at the same time by many people
+- Most assume P2P makes things faster and somehow more secure
+- P2P is largely thought of by non-experts and some expert participants as a tool for media piracy which could have potentially given a good technology a bad name
+- How files and folders work in P2P, especially in terms of the URL isn’t greatly understood
 - Privacy on the Internet is understood differently in different parts of the world
-- When in P2P ‘mode’, it may be very beneficial to the user to have a drastically user or visual experience to differentiate the mode of use
+- When in P2P mode, it may be very beneficial to the user to have a drastically user or visual experience to differentiate
 - There are potential opportunities with P2P in terms of lowering CDN costs and lessening or eliminating the need for invasive advertising
-- P2P might be better suited to use that is more niche and not mass scale, such as scientific and academic publishing
-- Expert users believe participation models and value propositions need to be explored much more and better communicated
+- P2P might be better suited to use that is more niche, such as scientific and academic publishing
+- Expert users believe P2P participation models and value propositions need to be explored much more and better communicated
 
 #### Key design and user context questions and issues
 
-- How might we design P2P (IPFS) to be used by the wider browser user base in terms of accomplishing a typical user tasks easier than they do now, for instance sharing photos?
+- How might we design P2P to be used by the wider browser user base in terms of accomplishing a typical user tasks easier than they do now, for instance sharing photos?
 - How might we clearly communicate the benefits of using P2P technologies?
-- How might we allow the user be enabled to participating in a P2P scenario by being stepped through the first few times?
-- How might we communicate to the users visually what is happening?
+- How might we onboard users to participating in P2P by leading them through it the first few times?
+- How might we best communicate to the users visually what is happening?
 - How might we explore niche use cases such as scientific and academic publishing?
 - How might we better understand where context, location and culture is important in perceptions of privacy, participation and P2P?
- - How might we explore design in which P2P is used or explained with public folders like with Dropbox?
-- How might we think of a repository-type approach in thinking about distributed content stores that makes sense to a broad range of users?
+- How might we explore design in which P2P is used or explained with public folders like with Dropbox?
+- How might we think of a repository-type with a checking in and out approach that makes sense to a broad range of users?
 - How might we we ensure trust and verification of content ownership and security for users when connecting to other people’s computers and devices?
- - How can we reward users on a P2P network, for instance a page giving the user no ads in return for participation in lowering CDN costs?
+- How can we reward users on a P2P network, for instance a page giving the user no ads in return for participation in lowering CDN costs?
 
 ## Design
 
