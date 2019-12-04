@@ -47,7 +47,7 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 - What is going on in a browser with privacy and a secure connection is largely understood
 - Domains are signs of trust and at least partially comprehended in terms of what is going on, for instance .com, .org, etc.
 - P2P in a browser is largely only understood by developers
-- P2P (and IPFS) is easy to understand
+- P2P is easy to understand
 - The use cases of P2P in terms of a browser are clearly understood
 
 ### Research findings and themes
