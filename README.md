@@ -50,7 +50,7 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 - P2P (and IPFS) is easy to understand
 - The use cases of P2P in terms of a browser are clearly understood
 
-### Research findings
+### Research findings and themes
 
 - The URL is only important as a backup and source of credibility that the right things are happening in the browser
  - Nobody thinks the URL bar should go away as it serves as a semi-readable source of authenticity, for instance at a domain level for all levels of users
@@ -121,8 +121,6 @@ We will know this is valid when data or research shows that it is being used onl
 
 ### Use cases
 
-#### Format
-
 #### (1.) An uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
 
 Actors: User, browser, P2P network protocol
@@ -132,12 +130,6 @@ An average, non-developer web user would like to share a photo. To do so they wi
 The user selects the icon or P2P control in the browser URL bar, the browser responds with opening a dropdown, dialog window. The user will be shown options for which P2P network or protocol to enable with their last chosen option already checked. They will have the option to turn on P2P sharing on a button. Once clicked, the on/off P2P button will turn active and there will be an animated indication that the browser is now in dual client/server mode. The user has additional settings next to any of the protocols shows as well an a link to more information.
 
 The user is now in P2P mode and their browser interface changes to show which files they are serving in a file and folder structure and shows an upload box. They drag the photo to the upload box which shows a progress bar while it uploads to the network. The address of the photo is copied automatically to their clipboard and they proceed to email the link in a message.
-
-(2.)
-
-(3.)
-
-(4.)
 
 ### Programme of work
 
