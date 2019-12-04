@@ -53,12 +53,12 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 ### Research findings and themes
 
 - The URL is only important as a backup and source of credibility that the right things are happening in the browser
- - Nobody thinks the URL bar should go away as it serves as a semi-readable source of authenticity, for instance at a domain level for all levels of users
+- Nobody thinks the URL bar should go away as it serves as a semi-readable source of authenticity, for instance at a domain level for all levels of users
 - The URL bar as it is presented now is probably fine just the way it is
 - Almost across the board between non-experts and experts, URLs are rarely typed in and the URL bar is used for search as a primary means of navigation
-- A few research participants use autocomplete with domains and finding URLs via history and bookmark functions in their browser
 - Privacy and security are a great concern to users, both expert and non-expert. However, ad tracking and surveillance is not greatly understood by non-experts and they often have misconceptions and are thus largely left feeling hopeless and defeated.
- - HTTPS is something all users are aware of although they might not fully understand it’s implications, but trust that it means “secure”
+- Very long URLs are generally regarded as suspicious and shorted URLs are likewise not very trusted as they lack context with a domain for instance
+- HTTPS is something all users are aware of although they might not fully understand it’s implications or understand why, but trust that it means “secure”
 - People have issues with long URLs and in particular ones that seem to have what are perceived to have codes or tracking things in them
 - Blogs have created a better understanding of URLs with non-expert users as they are quite readable
  - The URL is perceived to be potentially very useful if it had certain standard conventions or features such as having topic, author or title included
