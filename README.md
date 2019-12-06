@@ -52,9 +52,8 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 
 ### Research findings and themes
 
-- The URL is only important as a backup and source of credibility that the right things are happening in the browser
+- The URL is only important as a backup and source of credibility that the right things are happening in the browser, thus although not always entirely understood is found to be likely fine the way it is
 - The URL is understood as an address and pointing to a location, with content at that location
-- According to experts and many non-experts spoken with, the URL bar as it is presented now is probably fine just the way it is
 - URLs are rarely typed in and the URL bar is used for search as a primary means of navigation
 - HTTPS is something all users are aware of although they might not fully understand it’s implications or understand why, but trust that it means “secure”
 - Privacy and security are a great concern to users. However, ad tracking and surveillance is not greatly understood by non-experts and they often have misconceptions and are thus largely left feeling hopeless and defeated.
