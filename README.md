@@ -69,18 +69,28 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 - Expert users believe P2P participation models and value propositions need to be explored much more and better communicated
 - P2P might be initially suited to use that is more niche, such as scientific and academic publishing
 
-#### Key design and user context questions and issues (WIP)
+#### Key design and user context questions (WIP)
 
-- How might we design P2P to be used by the wider browser user base in terms of accomplishing a typical user tasks easier than they do now, for instance sharing photos?
-- How might we clearly communicate the benefits of using P2P technologies?
-- How might we onboard users to participating in P2P by leading them through it the first few times?
-- How might we best communicate to the users visually what is happening?
-- How might we explore niche use cases such as scientific and academic publishing?
-- How might we better understand where context, location and culture is important in perceptions of privacy, participation and P2P?
-- How might we explore design in which P2P is used or explained with public folders like with Dropbox?
-- How might we think of a repository-type with a checking in and out approach that makes sense to a broad range of users?
-- How might we we ensure trust and verification of content ownership and security for users when connecting to other people’s computers and devices?
-- How can we reward users on a P2P network, for instance a page giving the user no ads in return for participation in lowering CDN costs?
+How might we best communicate in interaction and design that P2P is about in terms of being distributed and about files being in many places at the same time with many people?
+
+- How best do we show this is the key value of P2P?
+- Showing users what is going on (ie. how many people, who can see what, what I'm sharing)
+- Graphical, quick and largely in the background
+
+How might we replicate users's vague but useful understanding that HTTPS is secure with P2P without them having to know all the implications?
+
+- Can we explore what "safe" means in the context of IPFS?
+- Can we communicate that "S" goes with a control indication like the padlock?
+
+How might we help users not feel defeated and hopeless amongst an internet full of ad tracking and surveillance?
+
+- Can we show the core benefit of P2P (IPFS) is privacy without being bogged down in technical details?
+- Can we show that external threat actors can not track them when they use P2P?
+
+How might we show P2P is not only more secure, but that in some cases, is faster than HTTP?
+
+- Can we indicate the transfer is encrypted, but your activity is visible?
+- Can we display when it will be faster/slower to the user?
 
 ## Design
 
