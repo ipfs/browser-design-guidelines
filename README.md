@@ -69,7 +69,7 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 - Expert users believe P2P participation models and value propositions need to be explored much more and better communicated
 - P2P might be initially suited to use that is more niche, such as scientific and academic publishing
 
-#### Key design and user context questions (WIP)
+#### Key design questions
 
 How might we best communicate in interaction and design that P2P is about in terms of being distributed and about files being in many places at the same time with many people?
 
@@ -108,6 +108,7 @@ How might we utilise the current convention of using the URL bar for search as a
 - Is there an interaction design opportunity around autocomplete?
 
 How might we show that P2P can lessen CDN costs and also lessen the need for advertising and tracking-bsed business content models?
+
 
 ## Design
 
