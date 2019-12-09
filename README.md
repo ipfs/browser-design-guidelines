@@ -92,51 +92,26 @@ How might we show P2P is not only more secure, but that in some cases, is faster
 - Can we indicate the transfer is encrypted, but your activity is visible?
 - Can we display when it will be faster/slower to the user?
 
+How might we communicate P2P is not just a tool for piracy?
+
+- Can we replace language to describe how P2P works so it's not "it's like bittorrent"?
+
+How might we make P2P addresses trustable?
+
+- Can we make them not too long or looking as if they're hiding something?
+- Could addresses be made more human-readable through things like IPNS?
+- We are adding something new to the location bar, which changes it's name even.
+
+How might we utilise the current convention of using the URL bar for search as a primary means of navigation for P2P?
+
+- Is there a way to get around search not being good for IPFS?
+- Is there an interaction design opportunity around autocomplete?
+
+How might we show that P2P can lessen CDN costs and also lessen the need for advertising and tracking-bsed business content models?
+
 ## Design
 
 The intent of the design phase of the IPFS Browser Design Guidelines is to examine and explore the use-cases for IPFS in browsers, and publish design guidelines and recommendations for browser vendor implementation
-
-### Hypotheses
-
-#### (1.) We believe an uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
-Know that they are participating in P2P in a safe and trusted manner.
-
-We will know this is valid when users understand they are participating in P2P without being told and feel okay with it
-
-&nbsp;
-
-#### (2.) We believe that showing the user a clearly communicated value proposition to use P2P will help curious browser users
-Onboard to and begin using P2P protocols
-
-We will know this is valid when users report the benefits of partipating in P2P and continue using
-
-&nbsp;
-
-#### (3.) We believe that having a way to see the authenticity and safety of the content shared will help P2P users who are concerned about privacy and surveillance
-Continue to use the protocol
-
-We will know this is valid when P2P users are shown to be using this initially a lot but in decreasing amounts throughout their continued use
-
-&nbsp;
-
-#### (4.) We believe that seeing an easily understandable first time process for beginning to participate in P2P will get non-expert users
-To quickly onboard and only use this once
-
-We will know this is valid when data or research shows that it is being used only once
-
-&nbsp;
-
-### Use cases
-
-#### (1.) An uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
-
-Actors: User, browser, P2P network protocol
-
-An average, non-developer web user would like to share a photo. To do so they will use their browser and P2P sharing.
-
-The user selects the icon or P2P control in the browser URL bar, the browser responds with opening a dropdown, dialog window. The user will be shown options for which P2P network or protocol to enable with their last chosen option already checked. They will have the option to turn on P2P sharing on a button. Once clicked, the on/off P2P button will turn active and there will be an animated indication that the browser is now in dual client/server mode. The user has additional settings next to any of the protocols shows as well an a link to more information.
-
-The user is now in P2P mode and their browser interface changes to show which files they are serving in a file and folder structure and shows an upload box. They drag the photo to the upload box which shows a progress bar while it uploads to the network. The address of the photo is copied automatically to their clipboard and they proceed to email the link in a message.
 
 ### Programme of work
 
