@@ -107,7 +107,7 @@ How might we utilise the current convention of using the URL bar for search as a
 - Is there a way to get around search not being good for IPFS?
 - Is there an interaction design opportunity around autocomplete?
 
-How might we show that P2P can lessen CDN costs and also lessen the need for advertising and tracking-bsed business content models?
+How might we show that P2P can lessen CDN costs and also lessen the need for advertising and tracking-based business content models?
 
 
 ## Design
