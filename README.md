@@ -69,64 +69,50 @@ Lastly, a small cohort of expert users involved directly with P2P or IPFS develo
 - Expert users believe P2P participation models and value propositions need to be explored much more and better communicated
 - P2P might be initially suited to use that is more niche, such as scientific and academic publishing
 
-#### Key design and user context questions and issues (WIP)
+#### Key design questions
 
-- How might we design P2P to be used by the wider browser user base in terms of accomplishing a typical user tasks easier than they do now, for instance sharing photos?
-- How might we clearly communicate the benefits of using P2P technologies?
-- How might we onboard users to participating in P2P by leading them through it the first few times?
-- How might we best communicate to the users visually what is happening?
-- How might we explore niche use cases such as scientific and academic publishing?
-- How might we better understand where context, location and culture is important in perceptions of privacy, participation and P2P?
-- How might we explore design in which P2P is used or explained with public folders like with Dropbox?
-- How might we think of a repository-type with a checking in and out approach that makes sense to a broad range of users?
-- How might we we ensure trust and verification of content ownership and security for users when connecting to other people’s computers and devices?
-- How can we reward users on a P2P network, for instance a page giving the user no ads in return for participation in lowering CDN costs?
+How might we best communicate in interaction and design that P2P is about in terms of being distributed and about files being in many places at the same time with many people?
+
+- How best do we show this is the key value of P2P?
+- Showing users what is going on (ie. how many people, who can see what, what I'm sharing)
+- Graphical, quick and largely in the background
+
+How might we replicate users's vague but useful understanding that HTTPS is secure with P2P without them having to know all the implications?
+
+- Can we explore what "safe" means in the context of IPFS?
+- Can we communicate that "S" goes with a control indication like the padlock?
+
+How might we help users not feel defeated and hopeless amongst an internet full of ad tracking and surveillance?
+
+- Can we show the core benefit of P2P (IPFS) is privacy without being bogged down in technical details?
+- Can we show that external threat actors can not track them when they use P2P?
+
+How might we show P2P is not only more secure, but that in some cases, is faster than HTTP?
+
+- Can we indicate the transfer is encrypted, but your activity is visible?
+- Can we display when it will be faster/slower to the user?
+
+How might we communicate P2P is not just a tool for piracy?
+
+- Can we replace language to describe how P2P works so it's not "it's like bittorrent"?
+
+How might we make P2P addresses trustable?
+
+- Can we make them not too long or looking as if they're hiding something?
+- Could addresses be made more human-readable through things like IPNS?
+- We are adding something new to the location bar, which changes it's name even.
+
+How might we utilise the current convention of using the URL bar for search as a primary means of navigation for P2P?
+
+- Is there a way to get around search not being good for IPFS?
+- Is there an interaction design opportunity around autocomplete?
+
+How might we show that P2P can lessen CDN costs and also lessen the need for advertising and tracking-based business content models?
+
 
 ## Design
 
 The intent of the design phase of the IPFS Browser Design Guidelines is to examine and explore the use-cases for IPFS in browsers, and publish design guidelines and recommendations for browser vendor implementation
-
-### Hypotheses
-
-#### (1.) We believe an uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
-Know that they are participating in P2P in a safe and trusted manner.
-
-We will know this is valid when users understand they are participating in P2P without being told and feel okay with it
-
-&nbsp;
-
-#### (2.) We believe that showing the user a clearly communicated value proposition to use P2P will help curious browser users
-Onboard to and begin using P2P protocols
-
-We will know this is valid when users report the benefits of partipating in P2P and continue using
-
-&nbsp;
-
-#### (3.) We believe that having a way to see the authenticity and safety of the content shared will help P2P users who are concerned about privacy and surveillance
-Continue to use the protocol
-
-We will know this is valid when P2P users are shown to be using this initially a lot but in decreasing amounts throughout their continued use
-
-&nbsp;
-
-#### (4.) We believe that seeing an easily understandable first time process for beginning to participate in P2P will get non-expert users
-To quickly onboard and only use this once
-
-We will know this is valid when data or research shows that it is being used only once
-
-&nbsp;
-
-### Use cases
-
-#### (1.) An uncomplicated, unobtrusive P2P GUI with deeper, hidden levels of control will help experienced but non-developer users
-
-Actors: User, browser, P2P network protocol
-
-An average, non-developer web user would like to share a photo. To do so they will use their browser and P2P sharing.
-
-The user selects the icon or P2P control in the browser URL bar, the browser responds with opening a dropdown, dialog window. The user will be shown options for which P2P network or protocol to enable with their last chosen option already checked. They will have the option to turn on P2P sharing on a button. Once clicked, the on/off P2P button will turn active and there will be an animated indication that the browser is now in dual client/server mode. The user has additional settings next to any of the protocols shows as well an a link to more information.
-
-The user is now in P2P mode and their browser interface changes to show which files they are serving in a file and folder structure and shows an upload box. They drag the photo to the upload box which shows a progress bar while it uploads to the network. The address of the photo is copied automatically to their clipboard and they proceed to email the link in a message.
 
 ### Programme of work
 
@@ -147,6 +133,8 @@ The user is now in P2P mode and their browser interface changes to show which fi
 Free stuff used in this repo
 
 Icons: [Font Awesome][9]
+
+[Firefox Quantum Browser Mockup Sketch Resource](https://www.sketchappsources.com/free-source/3775-firefox-quantum-browser-mockup-sketch-freebie-resource.html)
 
 [1]:	https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey
 [2]:	https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey
