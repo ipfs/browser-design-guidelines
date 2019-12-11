@@ -134,6 +134,8 @@ Free stuff used in this repo
 
 Icons: [Font Awesome][9]
 
+[Firefox Quantum Browser Mockup Sketch Resource](https://www.sketchappsources.com/free-source/3775-firefox-quantum-browser-mockup-sketch-freebie-resource.html)
+
 [1]:	https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey
 [2]:	https://github.com/ipfs/browser-design-guidelines/wiki#browser-survey
 [3]:	https://github.com/ipfs/browser-design-guidelines/wiki/Stakeholders-workshop
